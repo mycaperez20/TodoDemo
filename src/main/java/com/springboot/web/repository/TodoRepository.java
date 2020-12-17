@@ -1,4 +1,4 @@
-package com.springboot.web.service;
+package com.springboot.web.repository;
 
 import java.util.List;
 
